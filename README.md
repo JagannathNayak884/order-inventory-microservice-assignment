@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # order-inventory-microservice-assignment
-=======
+
 # Order-Inventory Microservices Assignment
 
 This multi-module Maven project contains two Spring Boot microservices:
@@ -43,4 +43,3 @@ Run tests from project root:
 ```
 mvn test
 ```
->>>>>>> 21b41d1 (initial commoit- order andinventory services)
